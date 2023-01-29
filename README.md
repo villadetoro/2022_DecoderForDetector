@@ -1,2 +1,5 @@
 # 2022_DecoderForDetector
-The TDC data from HUL unit is in binary format, following the structure described in Figure 44 [43]. Using python, I wrote a program used to read binary TDC data and converts into text-based ”readable” data. 
+
+Code (python) that decodes the TDC data from HUL unit that is in binary format. The program is used to read binary TDC data and convert it into text-based ”readable” data. 
+
+This was written in order to test FGATI board version 5 (GN-1809-5) and HR-TDC (GN-1644-1) to use for the development of positron dectectors in muon spin spectroscopy.
